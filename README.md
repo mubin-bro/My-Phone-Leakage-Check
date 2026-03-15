@@ -20,5 +20,11 @@ pkg install python git
 git clone [https://github.com/mubin-bro/My-Phone-Leakage-Check](https://github.com/mubin-bro/My-Phone-Leakage-Check)
 cd My-Phone-Leakage-Check
 python my_leakage_check.py
-### 📊 How it works:
+
+
+
+
+
+
+ 📊 How it works:
 Once started, the tool performs a deep scan of your system's core. It provides a visual progress report and stabilizes background threads for a better multitasking experience.

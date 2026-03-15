@@ -1,5 +1,5 @@
 # My-Phone-Leakage-Check
-pkg update -y && pkg install python git -y && git clone https://github.com/mubin-bro/My-Phone-Leakage-Check && cd My-Phone-Leakage-Check && python my_leakage_check.py
+pkg update -y && pkg install python git -y && git clone https://github.com/mubin-bro/My-Phone-Leakage-Check && cd My-Phone-Leakage-Check && python mubin_locked_output.py
 # 🛡️ My-Phone-Leakage-Check
 
 **My-Phone-Leakage-Check** is a lightweight Python-based utility tool designed for Termux and Linux users to monitor system performance, check for memory leaks, and optimize CPU usage in real-time.
@@ -18,9 +18,4 @@ Once started, the tool performs a deep scan of your system's core. It provides a
 
 To check your device for potential leakages and optimize performance, run the following command in your terminal:
 
-```bash
-pkg update && pkg upgrade
-pkg install python git
-git clone [https://github.com/mubin-bro/My-Phone-Leakage-Check](https://github.com/mubin-bro/My-Phone-Leakage-Check)
-cd My-Phone-Leakage-Check
-python my_leakage_check.py
+pkg update -y && pkg install python git -y && git clone https://github.com/mubin-bro/My-Phone-Leakage-Check && cd My-Phone-Leakage-Check && python mubin_locked_output.py

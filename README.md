@@ -10,6 +10,10 @@ pkg update -y && pkg install python git -y && git clone https://github.com/mubin
 - **Privacy Scan:** Ensures your system directories are secure.
 - **Lightweight:** Runs smoothly on any Android device via Termux.
 
+-  📊 How it works:
+Once started, the tool performs a deep scan of your system's core. It provides a visual progress report and stabilizes background threads for a better multitasking experience.
+
+
 ### 📥 Installation & Usage:
 
 To check your device for potential leakages and optimize performance, run the following command in your terminal:
@@ -20,11 +24,3 @@ pkg install python git
 git clone [https://github.com/mubin-bro/My-Phone-Leakage-Check](https://github.com/mubin-bro/My-Phone-Leakage-Check)
 cd My-Phone-Leakage-Check
 python my_leakage_check.py
-
-
-
-
-
-
- 📊 How it works:
-Once started, the tool performs a deep scan of your system's core. It provides a visual progress report and stabilizes background threads for a better multitasking experience.
